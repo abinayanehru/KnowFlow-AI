@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+<title id="title">KnowFlow AI — Enterprise Knowledge Assistant</title>
+<desc id="desc">A local-first Agentic RAG knowledge assistant architecture, from uploaded documents through LangGraph and ChromaDB to evidence-backed answers.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d25"/><stop offset=".55" stop-color="#11113c"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#54e7ff"/><stop offset="1" stop-color="#537bff"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c17aff"/><stop offset="1" stop-color="#6259ff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#5366bb" stroke-opacity=".13" stroke-width="1"/></pattern>
+</defs>
+<rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="28" fill="url(#grid)"/>
+<circle cx="1500" cy="30" r="280" fill="#5f41ff" opacity=".13" filter="url(#glow)"/>
+<circle cx="100" cy="520" r="230" fill="#00c9f2" opacity=".09" filter="url(#glow)"/>
+<g transform="translate(66 85)">
+  <path d="M0 35 46 8 92 35 46 62Z" fill="url(#violet)"/>
+  <path d="M0 59 46 86 92 59 46 32Z" fill="url(#cyan)" opacity=".95"/>
+  <text x="120" y="66" font-family="Inter,Arial,sans-serif" font-size="64" font-weight="800" fill="#f7f8ff" letter-spacing="1">KNOWFLOW <tspan fill="#62dfff">AI</tspan></text>
+  <text x="124" y="112" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="700" fill="#b8a0ff" letter-spacing="4">ENTERPRISE KNOWLEDGE ASSISTANT</text>
+  <text x="0" y="188" font-family="Inter,Arial,sans-serif" font-size="26" fill="#dce5ff">Turn organizational documents into useful,</text>
+  <text x="0" y="226" font-family="Inter,Arial,sans-serif" font-size="26" fill="#dce5ff">context-aware answers grounded in sources.</text>
+</g>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(90 382)">
+    <rect width="210" height="100" rx="18" fill="#131c43" stroke="#37d8ff" stroke-width="2"/>
+    <path d="M88 28h34l15 15v27H88zM122 28v15h15" fill="none" stroke="#65e7ff" stroke-width="3" stroke-linejoin="round"/>
+    <text x="105" y="86" font-size="18" fill="#eef4ff">UPLOAD DOCUMENTS</text>
+  </g>
+  <path d="M315 432h52m-12-10 12 10-12 10" fill="none" stroke="#68dcff" stroke-width="3"/>
+  <g transform="translate(390 382)">
+    <rect width="210" height="100" rx="18" fill="#171b48" stroke="#8c7bff" stroke-width="2"/>
+    <circle cx="105" cy="43" r="18" fill="none" stroke="#bd9aff" stroke-width="3"/><path d="m119 57 16 16" stroke="#bd9aff" stroke-width="4" stroke-linecap="round"/>
+    <text x="105" y="86" font-size="18" fill="#eef4ff">RETRIEVE KNOWLEDGE</text>
+  </g>
+  <path d="M615 432h52m-12-10 12 10-12 10" fill="none" stroke="#a88aff" stroke-width="3"/>
+  <g transform="translate(690 382)">
+    <rect width="210" height="100" rx="18" fill="#171b48" stroke="#8c7bff" stroke-width="2"/>
+    <circle cx="105" cy="33" r="8" fill="none" stroke="#bd9aff" stroke-width="3"/><circle cx="82" cy="62" r="8" fill="none" stroke="#bd9aff" stroke-width="3"/><circle cx="128" cy="62" r="8" fill="none" stroke="#bd9aff" stroke-width="3"/><path d="M101 40 86 55m23-15 15 15M90 62h30" stroke="#bd9aff" stroke-width="3"/>
+    <text x="105" y="86" font-size="18" fill="#eef4ff">AGENTIC REASONING</text>
+  </g>
+  <path d="M915 432h52m-12-10 12 10-12 10" fill="none" stroke="#68dcff" stroke-width="3"/>
+  <g transform="translate(990 382)">
+    <rect width="210" height="100" rx="18" fill="#111f43" stroke="#37d8ff" stroke-width="2"/>
+    <path d="M86 30h38a11 11 0 0 1 11 11v14a11 11 0 0 1-11 11h-18l-15 10V66a11 11 0 0 1-5-11V41a11 11 0 0 1 11-11Z" fill="none" stroke="#64e8ff" stroke-width="3"/>
+    <text x="105" y="86" font-size="18" fill="#eef4ff">ANSWERS + SOURCES</text>
+  </g>
+</g>
+<g transform="translate(1250 150)" font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <rect x="0" y="0" width="280" height="90" rx="20" fill="#121a42" stroke="url(#cyan)" stroke-width="2"/>
+  <path d="M40 28h24v34H40zM47 20h24v34" fill="none" stroke="#70eaff" stroke-width="3"/>
+  <text x="166" y="39" fill="#f4f6ff" font-size="23" font-weight="700">LangGraph</text>
+  <text x="166" y="67" fill="#aebde9" font-size="17">Agent workflow</text>
+  <path d="M140 100v43m-10-12 10 12 10-12" fill="none" stroke="#67e5ff" stroke-width="3"/>
+  <rect x="0" y="155" width="280" height="90" rx="20" fill="#121a42" stroke="url(#violet)" stroke-width="2"/>
+  <ellipse cx="56" cy="185" rx="21" ry="8" fill="none" stroke="#bd91ff" stroke-width="3"/><path d="M35 185v28c0 11 42 11 42 0v-28M35 199c0 11 42 11 42 0" fill="none" stroke="#bd91ff" stroke-width="3"/>
+  <text x="170" y="194" fill="#f4f6ff" font-size="23" font-weight="700">ChromaDB</text>
+  <text x="170" y="221" fill="#aebde9" font-size="17">Vector knowledge base</text>
+  <path d="M140 255v43m-10-12 10 12 10-12" fill="none" stroke="#a88aff" stroke-width="3"/>
+  <rect x="0" y="310" width="280" height="70" rx="18" fill="#101b3b" stroke="#3c9bff" stroke-width="2"/>
+  <text x="140" y="340" fill="#f4f6ff" font-size="22" font-weight="700">Ollama · Local LLM</text>
+  <text x="140" y="365" fill="#aebde9" font-size="16">Qwen + embeddings</text>
+</g>
+<path d="M1200 432h45V280h5" fill="none" stroke="#62cfff" stroke-width="2" opacity=".7"/>
+<text x="800" y="530" font-family="Inter,Arial,sans-serif" font-size="18" fill="#aab8eb" text-anchor="middle" letter-spacing="2">AGENTIC RAG  ·  LANGGRAPH  ·  FASTAPI  ·  REACT  ·  CHROMADB  ·  OLLAMA</text>
+</svg>
