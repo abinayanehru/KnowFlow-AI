@@ -109,14 +109,11 @@ flowchart TD
 
 ## Screenshots
 
-
-## Screenshots
-
 ### Employee Dashboard
-![KnowFlow AI Employee Dashboard](docs/screenshots/employee-dashboard.png)
+![KnowFlow AI Employee Dashboard](docs/screenshots/employee_dashboard.png)
 
 ### AI Assistant — Agentic RAG
-![KnowFlow AI Assistant](docs/screenshots/ai-assistant.png) 
+![KnowFlow AI Assistant](docs/screenshots/ai_assistant.png) 
 
 ## Run Locally on Windows
 
