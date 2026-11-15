@@ -109,17 +109,14 @@ flowchart TD
 
 ## Screenshots
 
-Add screenshots captured from your running KnowFlow AI application. Suggested views: Employee dashboard, AI Assistant with a grounded response and source references, Document Library, and Manager Approval Center.
 
-Create a docs/screenshots/ folder and add sanitized images, then use Markdown such as:
+## Screenshots
 
-```md
-![Employee dashboard](docs/screenshots/employee-dashboard.png)
-![AI Assistant](docs/screenshots/ai-assistant.png)
-![Manager approvals](docs/screenshots/manager-approvals.png)
-```
+### Employee Dashboard
+![KnowFlow AI Employee Dashboard](docs/screenshots/employee-dashboard.png)
 
-Do not include confidential documents, tokens, or personal information in screenshots.
+### AI Assistant — Agentic RAG
+![KnowFlow AI Assistant](docs/screenshots/ai-assistant.png) 
 
 ## Run Locally on Windows
 
