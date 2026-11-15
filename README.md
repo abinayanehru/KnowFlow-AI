@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/knowflow-banner.svg" alt="KnowFlow AI — Enterprise Knowledge Assistant" width="100%" />
+</p>
+
 # KnowFlow AI
 
 **Enterprise Knowledge Assistant with Agentic RAG**
